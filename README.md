@@ -176,10 +176,17 @@ We evaluate 10+ representative retrieval models of diverse sizes and architectur
 
 If this code or dataset contributes to your research, please kindly consider citing our paper and give this repo ⭐️ :)
 ```
-@article{li2024automir,
-  title={AutoMIR: Effective Zero-Shot Medical Information Retrieval without Relevance Labels},
-  author={Li, Lei and Zhang, Xiangxu and Zhou, Xiao and Liu, Zheng},
-  journal={arXiv preprint arXiv:2410.20050},
-  year={2024}
+@inproceedings{li-etal-2025-automir,
+    title = "{A}uto{MIR}: Effective Zero-Shot Medical Information Retrieval without Relevance Labels",
+    author = "Li, Lei  and Zhang, Xiangxu  and Zhou, Xiao  and Liu, Zheng",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.1305/",
+    doi = "10.18653/v1/2025.findings-emnlp.1305",
+    pages = "24028--24047",
+    ISBN = "979-8-89176-335-7"
 }
 ```
