@@ -24,7 +24,7 @@ Intelligence</p>
 
 ## 🔭 Overview
 
-### AutoMIR: Effective Zero-Shot Medical Information Retrieval without Relevance Labels
+### AutoMIR: Effective Zero-Shot Medical Information Retrieval without Relevance Labels (accepted in [EMNLP2025](https://aclanthology.org/2025.findings-emnlp.1305/))
 
  In this work, we propose Self-Learning Hypothetical Document Embeddings for zero-shot medical information retrieval, eliminating the need for relevance-labeled data. 
  
